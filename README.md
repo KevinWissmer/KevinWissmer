@@ -1,3 +1,5 @@
+<img src="OWLWK.png" align="right" />
+
 # Welcome to my profile
 
 ## Portfolio
