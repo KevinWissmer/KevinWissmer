@@ -1,4 +1,4 @@
-<img src="OWLWK.png" align="right" />
+<img src="OWLWK.png" align="right" width="50%" />
 
 # Welcome to my profile
 
